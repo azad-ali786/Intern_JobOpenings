@@ -1,6 +1,9 @@
 [![scraper-automation](https://github.com/azad-ali786/Intern_JobOpenings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Intern_JobOpenings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
+| upstox | SDE Intern (2023-2024) | https://jobs.lever.co/upstox/e15b9350-848e-4840-808b-94d557e35d3b |
+| upstox | SDE Intern (2023-2024) | https://jobs.lever.co/upstox/e15b9350-848e-4840-808b-94d557e35d3b/apply |
+| LivePerson | SDE Intern | https://boards.greenhouse.io/liveperson/jobs/5294082?utm_source=Simplify&ref=Simplify |
 | Sigma Computing | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/sigmacomputing/jobs/5731378003 |
 | Credit Karma | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/creditkarma/jobs/5760872003 |
 | Viam | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/viamrobotics/jobs/4939021004 |
