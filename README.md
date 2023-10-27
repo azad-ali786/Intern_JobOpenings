@@ -1,4 +1,4 @@
-[![scraper-automation](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Job_Openings/actions/workflows/scraper-automation.yml)
+[![scraper-automation](https://github.com/azad-ali786/Intern_JobOpenings/actions/workflows/scraper-automation.yml/badge.svg)](https://github.com/azad-ali786/Intern_JobOpenings/actions/workflows/scraper-automation.yml)
 | Employer | Role | URL |
 | --- | --- | --- |
 | Sigma Computing | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/sigmacomputing/jobs/5731378003 |
