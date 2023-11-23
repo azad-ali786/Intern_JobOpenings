@@ -74,7 +74,6 @@ for page in range(num_pages):
                             job_role = job_title_element.text.strip()
                             company = company_element
                             job_data.append((company, job_role, actual_url))
-                
 
 # Reading the existing content of the README.md file
 with open('README.md', 'r') as readme_file:
@@ -89,8 +88,12 @@ insert_position = existing_content.index("| Employer | Role | URL |\n| --- | ---
 # Inserting the new job data below the header in the existing content
 new_content = existing_content[:insert_position] + "\n" + new_job_data + existing_content[insert_position:]
 
+# Limiting the number of lines to 100
+new_content_lines = new_content.split("\n")[:100]
+new_content = "\n".join(new_content_lines)
+
 # Writes the updated content back to the README.md file
 with open('README.md', 'w') as readme_file:
     readme_file.write(new_content)
 
-print("New data written to README.md file below the table header.")
+print("New data written to README.md file.")
