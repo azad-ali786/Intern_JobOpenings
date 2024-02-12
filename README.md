@@ -4,6 +4,16 @@
 | --- | --- | --- |
 | upstox | SDE Intern (2024) | https://jobs.lever.co/upstox/e7c136f7-975c-4aca-a22d-6e65886bf140 |
 | upstox | SDE Intern (2024) | https://jobs.lever.co/upstox/e7c136f7-975c-4aca-a22d-6e65886bf140/apply |
+| SpaceX | Summer 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/6917839002?utm_source=Simplify&ref=Simplify |
+| Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697 |
+| Gusto, Inc. | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/gusto/jobs/5478110 |
+| Intradiem | Summer 2024 Software Engineering Intern | https://boards.greenhouse.io/intradiem/jobs/4285799006 |
+| fizz | Software Engineering Intern (Summer 2024) | https://jobs.lever.co/fizz/68fc24f5-54a2-42ce-88b5-bee3e8032386 |
+| Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003 |
+| Events | Software Engineering Intern, Summer 2024 | https://boards.greenhouse.io/whatnotcampus/jobs/4957334004 |
+| Box | Software Engineering Intern - Summer 2024 | https://boards.greenhouse.io/boxinc/jobs/5657014 |
+| upstox | SDE Intern (2024) | https://jobs.lever.co/upstox/e7c136f7-975c-4aca-a22d-6e65886bf140 |
+| upstox | SDE Intern (2024) | https://jobs.lever.co/upstox/e7c136f7-975c-4aca-a22d-6e65886bf140/apply |
 | SpaceX | Summer 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/6917839002?gh_jid=6917839002 |
 | Gusto, Inc. | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/gusto/jobs/5478110 |
 | fizz | Software Engineering Intern (Summer 2024) | https://jobs.lever.co/fizz/68fc24f5-54a2-42ce-88b5-bee3e8032386 |
@@ -88,13 +98,3 @@
 | Events | Software Engineering Intern, Summer 2024 | https://boards.greenhouse.io/whatnotcampus/jobs/4957334004 |
 | boringcompany | Software Engineering Intern (Summer 2024) | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | HPR | Software Engineering Intern - Summer 2024 | https://boards.greenhouse.io/hyannisportresearch/jobs/5698876003?utm_source=Simplify&ref=Simplify |
-| Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003 |
-| SpaceX | Summer 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/6917839002?gh_jid=6917839002 |
-| Gusto, Inc. | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/gusto/jobs/5478110 |
-| Intradiem | Summer 2024 Software Engineering Intern | https://boards.greenhouse.io/intradiem/jobs/4285799006 |
-| fizz | Software Engineering Intern (Summer 2024) | https://jobs.lever.co/fizz/68fc24f5-54a2-42ce-88b5-bee3e8032386 |
-| Events | Software Engineering Intern, Summer 2024 | https://boards.greenhouse.io/whatnotcampus/jobs/4957334004 |
-| HPR | Software Engineering Intern - Summer 2024 | https://boards.greenhouse.io/hyannisportresearch/jobs/5698876003?utm_source=Simplify&ref=Simplify |
-| boringcompany | Software Engineering Intern (Summer 2024) | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
-| SpaceX | Summer 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/6917839002?gh_jid=6917839002 |
-| Gusto, Inc. | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/gusto/jobs/5478110 |
