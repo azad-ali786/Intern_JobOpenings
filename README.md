@@ -3,6 +3,12 @@
 | Employer | Role | URL |
 | --- | --- | --- |
 | Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697 |
+| Box | Software Engineering Intern - Summer 2024 | https://boards.greenhouse.io/boxinc/jobs/5657014 |
+| SpaceX | Summer 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/6917839002 |
+| Braze | Software Engineering Intern | https://boards.greenhouse.io/braze/jobs/5412061?gh_jid=5412061 |
+| boringcompany | Software Engineering Intern (Summer 2024) | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
+| Events | Software Engineering Intern, Summer 2024 | https://boards.greenhouse.io/whatnotcampus/jobs/4957334004 |
+| Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697 |
 | SpaceX | Summer 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/6917839002 |
 | Box | Software Engineering Intern - Summer 2024 | https://boards.greenhouse.io/boxinc/jobs/5657014 |
 | Braze | Software Engineering Intern | https://boards.greenhouse.io/braze/jobs/5412061?gh_jid=5412061 |
@@ -92,9 +98,3 @@
 | olo | Software Engineering Intern | https://jobs.lever.co/olo/84242f1a-53cb-4e85-8ffe-63291ab084a4 |
 | Events | Software Engineering Intern, Summer 2024 | https://boards.greenhouse.io/whatnotcampus/jobs/4957334004 |
 | upstox | SDE Intern (2024) | https://jobs.lever.co/upstox/e7c136f7-975c-4aca-a22d-6e65886bf140 |
-| upstox | SDE Intern (2024) | https://jobs.lever.co/upstox/e7c136f7-975c-4aca-a22d-6e65886bf140/apply |
-| e7c136f7-975c-4aca-a22d-6e65886bf140 | SDE Intern (2024) | https://jobs.lever.co/upstox/e7c136f7-975c-4aca-a22d-6e65886bf140/thanks |
-| Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697 |
-| Gusto, Inc. | Software Engineering Intern (Summer 2024) | https://boards.greenhouse.io/gusto/jobs/5478110 |
-| SpaceX | Summer 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/6917839002 |
-| Braze | Software Engineering Intern | https://boards.greenhouse.io/braze/jobs/5412061?gh_jid=5412061 |
