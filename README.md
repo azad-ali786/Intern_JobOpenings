@@ -4,6 +4,12 @@
 | --- | --- | --- |
 | Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697?gh_jid=5693697 |
 | Whatnot | Software Engineering Intern, Summer 2024 | https://boards.greenhouse.io/whatnot/jobs/4957334004 |
+| SpaceX | Fall 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/7268831002?gh_jid=7268831002 |
+| boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
+| Tripadvisor | Software Engineering Intern x5 (Viator) | https://boards.greenhouse.io/tripadvisor/jobs/5662036 |
+| Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003 |
+| Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697?gh_jid=5693697 |
+| Whatnot | Software Engineering Intern, Summer 2024 | https://boards.greenhouse.io/whatnot/jobs/4957334004 |
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | SpaceX | Fall 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/7268831002?gh_jid=7268831002 |
 | Tripadvisor | Software Engineering Intern x5 (Viator) | https://boards.greenhouse.io/tripadvisor/jobs/5662036 |
@@ -92,9 +98,3 @@
 | Whatnot | Software Engineering Intern, Summer 2024 | https://boards.greenhouse.io/whatnot/jobs/4957334004 |
 | SpaceX | Fall 2024 Software Engineering Internship/Co-op | https://boards.greenhouse.io/spacex/jobs/7268831002?gh_jid=7268831002 |
 | Ascend Analytics | Software Engineering Intern | https://boards.greenhouse.io/ascendanalytics/jobs/4369048005 |
-| Tripadvisor | Software Engineering Intern x5 (Viator) | https://boards.greenhouse.io/tripadvisor/jobs/5662036 |
-| Verkada | Software Engineering Intern, Embedded - Summer 2024 | https://boards.greenhouse.io/verkada/jobs/4135597007 |
-| Futronics (NA) Corporation | Software Engineering Intern | https://boards.greenhouse.io/futronics/jobs/5321643003 |
-| Verkada | Software Engineering Intern, Backend - Summer 2024 | https://boards.greenhouse.io/verkada/jobs/4135589007 |
-| Osmo | Software Engineering Intern | https://boards.greenhouse.io/osmo/jobs/4334108006?gh_jid=4334108006 |
-| Acorns | Software Engineer (Intern) - Summer 2024 | https://boards.greenhouse.io/acorns/jobs/5693697?gh_jid=5693697 |
