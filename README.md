@@ -2,6 +2,10 @@
 
 | Employer | Role | URL |
 | --- | --- | --- |
+| boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
+| sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
+| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
+| Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003?utm_source=ziprecruiter |
 | sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
@@ -93,8 +97,4 @@
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003?utm_source=ziprecruiter |
 | Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
-| boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
-| Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003?utm_source=ziprecruiter |
-| Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
-| Strava | Mobile Software Engineering Intern (iOS & Android) | https://boards.greenhouse.io/strava/jobs/6179518 |
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
