@@ -3,6 +3,10 @@
 | Employer | Role | URL |
 | --- | --- | --- |
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
+| boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
+| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
+| super-com | Software Engineering Intern - Fullstack (Product) - (Remote) Waterloo Winter 2025 | https://jobs.lever.co/super-com/4cbcde78-1d89-49b7-8c56-9a1b1820842a |
+| HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
 | sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
@@ -93,8 +97,4 @@
 | sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
-| cohere | Software Engineer Intern/Co-op (Winter 2025) | https://jobs.lever.co/cohere/5a5e777a-8259-447d-b8bf-7b67c7b093b7 |
-| sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
-| boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
-| Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003?utm_source=ziprecruiter |
 | cohere | Software Engineer Intern/Co-op (Winter 2025) | https://jobs.lever.co/cohere/5a5e777a-8259-447d-b8bf-7b67c7b093b7 |
