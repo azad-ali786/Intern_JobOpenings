@@ -5,6 +5,11 @@
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
 | HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
+| shieldai | Frontend Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/ff659629-7332-417a-bfc8-ad77cf844004 |
+| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
+| HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
+| HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
+| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
@@ -93,8 +98,3 @@
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | WisprAI | Software Engineering Intern | https://jobs.lever.co/WisprAI/d72ed5b5-5185-47f2-985e-51f0423d2589 |
-| boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
-| sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
-| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
-| boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
-| sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
