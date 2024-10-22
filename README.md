@@ -5,6 +5,9 @@
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
 | HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095?gh_jid=6289095 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
+| HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
+| HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095?gh_jid=6289095 |
+| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003 |
 | shieldai | Frontend Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/ff659629-7332-417a-bfc8-ad77cf844004 |
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
@@ -95,6 +98,3 @@
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | Docugami | Software Engineering Intern | https://boards.greenhouse.io/docugami/jobs/4014838003?utm_source=ziprecruiter |
-| boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
-| sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
-| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
