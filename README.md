@@ -4,6 +4,9 @@
 | --- | --- | --- |
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
 | HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
+| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
+| HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
+| HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
 | HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
@@ -95,6 +98,3 @@
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
-| Regentcraft | Vehicle Software Engineering Intern | https://jobs.lever.co/Regentcraft/ea1b7425-a298-468b-be6a-80fe3543db40 |
-| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
-| sep | Software Engineering Intern (Summer 2025, In person) | https://jobs.lever.co/sep/8706239c-eb71-4027-a550-901332d8f3cb |
