@@ -5,6 +5,10 @@
 | Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
+| Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
+| Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
+| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
+| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
 | Pavilion | Software Engineering Intern | https://boards.greenhouse.io/pavilion/jobs/4498945005 |
 | Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
@@ -94,7 +98,3 @@
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
 | HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
-| HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
-| HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
-| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
-| HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
