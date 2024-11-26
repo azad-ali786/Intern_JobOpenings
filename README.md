@@ -2,6 +2,10 @@
 
 | Employer | Role | URL |
 | --- | --- | --- |
+| Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
+| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
+| Pavilion | Software Engineering Intern | https://boards.greenhouse.io/pavilion/jobs/4498945005 |
+| AppLovin | Software Engineering Intern | https://boards.greenhouse.io/applovin/jobs/4407678006?gh_jid=4407678006 |
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
 | Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
@@ -94,7 +98,3 @@
 | boringcompany | Software Engineering Intern | https://jobs.lever.co/boringcompany/2e50dd54-0f2e-42a7-b08d-622ff62e22e8 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
-| HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
-| Credit Karma | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/creditkarma/jobs/5760872003 |
-| HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
-| HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095 |
