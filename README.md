@@ -3,6 +3,9 @@
 | Employer | Role | URL |
 | --- | --- | --- |
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
+| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
+| Raft Company Website | Raft Software Engineering Intern - Summer 2025 | https://boards.greenhouse.io/raft/jobs/5363134004 |
+| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
 | Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
@@ -95,6 +98,3 @@
 | HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095?gh_jid=6289095 |
 | Credit Karma | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/creditkarma/jobs/5760872003 |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
-| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
-| HackerRank | Software Development Engineer Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6241442?gh_jid=6241442 |
-| HackerRank | Operations Specialist Intern (Onsite) | https://boards.greenhouse.io/hackerrank/jobs/6289095?gh_jid=6289095 |
