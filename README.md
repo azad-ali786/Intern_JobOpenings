@@ -13,6 +13,10 @@
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
+| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
+| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
+| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
+| Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
 | Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
@@ -93,8 +97,4 @@
 | Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
 | Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
-| Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
-| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
-| Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
-| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
 | Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
