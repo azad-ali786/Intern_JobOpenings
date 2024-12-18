@@ -5,6 +5,11 @@
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
 | Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
+| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
+| Pavilion | Software Engineering Intern | https://boards.greenhouse.io/pavilion/jobs/4498945005 |
+| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
+| Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
+| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
 | Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
@@ -93,8 +98,3 @@
 | shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
 | Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
 | shieldai | Frontend Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/ff659629-7332-417a-bfc8-ad77cf844004 |
-| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
-| Gusto, Inc. | Software Engineering Intern (Summer 2025) | https://boards.greenhouse.io/gusto/jobs/6383521 |
-| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
-| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
-| wisk | Software Engineering Intern | https://jobs.lever.co/wisk/55dbe938-1ca9-4f9f-afb3-a29dd65892b3 |
