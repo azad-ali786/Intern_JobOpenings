@@ -3,6 +3,12 @@
 | Employer | Role | URL |
 | --- | --- | --- |
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
+| super-com | Software Engineering Intern - Product | https://jobs.lever.co/super-com/10832822-b41a-4ab5-bdb5-b0745d4d1297 |
+| ambrook | Software Engineering Intern | https://jobs.lever.co/ambrook/df4de9bc-5786-40c5-9055-1cfcaa93a236 |
+| CLEAR - Corporate | Software Engineering Intern, Backend | https://boards.greenhouse.io/clear/jobs/6516361 |
+| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
+| quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
+| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
 | CLEAR - Corporate | Software Engineering Intern, Backend | https://boards.greenhouse.io/clear/jobs/6516361 |
 | ambrook | Software Engineering Intern | https://jobs.lever.co/ambrook/df4de9bc-5786-40c5-9055-1cfcaa93a236 |
 | quantco- | Software Engineering Intern | https://jobs.lever.co/quantco-/d69096fa-b673-4953-ba63-7deee08bc13c |
@@ -92,9 +98,3 @@
 | ambrook | Software Engineering Intern | https://jobs.lever.co/ambrook/df4de9bc-5786-40c5-9055-1cfcaa93a236 |
 | Pavilion | Software Engineering Intern | https://boards.greenhouse.io/pavilion/jobs/4498945005 |
 | ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
-| Vectra | Software Engineering Intern | https://boards.greenhouse.io/vectranetworks/jobs/6142052 |
-| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f |
-| shieldai | Software Engineering Intern - 2025 Summer Intern | https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f/apply |
-| ethereumfoundation | Software Engineering Intern | https://jobs.lever.co/ethereumfoundation/4881baf8-f006-4885-aaac-8bd5c9ca836a |
-| Pavilion | Software Engineering Intern | https://boards.greenhouse.io/pavilion/jobs/4498945005 |
-| ambrook | Software Engineering Intern | https://jobs.lever.co/ambrook/df4de9bc-5786-40c5-9055-1cfcaa93a236 |
